@@ -24,7 +24,7 @@ Vamos focar somente nas quatro principais pragas que atigem a lavoura de soja, s
 
 Sua tarefa é buscar imagens dessas pragas e criar um modelo de reconhecimento visual capaz de identificar corretamente cada uma delas, de modo que o agrônomo consiga dar o tratamento adequado.
 
-### 3. Resumo das tarefas
+## 3. Resumo das tarefas
 
 1. Instanciar o IBM Watson Visual Recognition na IBM Cloud;
 2. Instanciar o Watson Studio (Cloud Pak for Data as a Service) na IBM Cloud;
@@ -34,11 +34,11 @@ Sua tarefa é buscar imagens dessas pragas e criar um modelo de reconhecimento v
 6. Subir a aplicação de submissão;
 7. Acessar a aplicação de submissão e submeter sua solução.
 
-### 4. Preview Online
+## 4. Preview Online
 
 <a href="https://bit.ly/ibm-challenge">Clique aqui</a>
 
-### 5. Preview Image
+## 5. Preview Image
 
 <div align="center" >
   <img src="https://i.ibb.co/Xk9bYgy/cocamartwo.jpg">
