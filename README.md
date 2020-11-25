@@ -32,6 +32,8 @@ Minha tarefa foi buscar imagens dessas pragas e criar um modelo de reconheciment
 
 ## 4. Preview Online
 
+Para testar a aplicação procure na internet algumas imagens das pragas citadas que estejam em diferentes fases da vida e faça o upload delas no site abaixo.
+
 <a href="https://bit.ly/ibm-challenge">Clique aqui</a>
 
 ## 5. Preview Image
