@@ -11,18 +11,16 @@ A ideia do desafio é auxiliar o dia a dia do produtor, fornecendo para ele uma 
 
 ## 2. Objetivo
 
-O objetivo deste desafio é criar um sistema automático de identificação das pragas que atingem a lavoura de soja citadas acima. Para esse desafio aconselhamos que o participante utilize o _IBM Watson Visual Recognition_ e monte o seu classificador através dele. Antes o participante terá que separar manualmente as imagens da base nas classes citadas anteriormente. Caso considere pertinente, cada participante pode manipular as imagens da base previamente afim de melhorar a acurácia de classificação do modelo do Watson Visual Recognition.
+O objetivo deste desafio é criar um sistema automático de identificação das pragas que atingem a lavoura de soja citadas acima. Para esse desafio utilizei o _IBM Watson Visual Recognition_ para montar o meu classificador. Antes tive que separar manualmente as imagens da base em algumas classes. Também manipulei as imagens da base previamente afim de melhorar a acurácia de classificação do modelo do Watson Visual Recognition.
 
-Vamos focar somente nas quatro principais pragas que atigem a lavoura de soja, são elas:
+Foquei somente nas quatro principais pragas que atigem a lavoura de soja, são elas:
 
 1. Lagarta da soja
 2. Percevejo marrom
 3. Percevejo pequeno
 4. Percevejo verde
 
-*Obs: Os nomes das classes esperadas são apresentados mais abaixo. Não utilize os nomes acima como nome das classes.*
-
-Sua tarefa é buscar imagens dessas pragas e criar um modelo de reconhecimento visual capaz de identificar corretamente cada uma delas, de modo que o agrônomo consiga dar o tratamento adequado.
+Minha tarefa foi buscar imagens dessas pragas e criar um modelo de reconhecimento visual capaz de identificar corretamente cada uma delas, de modo que o agrônomo consiga dar o tratamento adequado.
 
 ## 3. Resumo das tarefas
 
@@ -30,9 +28,7 @@ Sua tarefa é buscar imagens dessas pragas e criar um modelo de reconhecimento v
 2. Instanciar o Watson Studio (Cloud Pak for Data as a Service) na IBM Cloud;
 3. Instanciar o Cloud Object Storage na IBM Cloud;
 4. Buscar por imagens que representam as classes especificadas: `lagarta`, `percevejo_marrom`, `percevejo_pequeno` e `percevejo_verde`;
-5. Treinar o modelo;
-6. Subir a aplicação de submissão;
-7. Acessar a aplicação de submissão e submeter sua solução.
+5. Treinar o modelo.
 
 ## 4. Preview Online
 
